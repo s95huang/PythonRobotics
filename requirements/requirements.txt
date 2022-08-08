@@ -6,4 +6,4 @@ cvxpy == 1.2.0
 pytest == 7.1.2 # For unit test
 pytest-xdist == 2.5.0 # For unit test
 mypy == 0.950 # For unit test
-flake8 == 4.0.1 # For unit test
+flake8 == 5.0.4 # For unit test
